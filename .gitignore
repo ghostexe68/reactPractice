@@ -8,5 +8,6 @@
 
 # production
 /public
+/dist
 
 #other
